@@ -1,4 +1,4 @@
-Road accidents in all 77 districts of Nepal in 2025, our team developed a machine learning model that could predict the severity of a road crash with 82% accuracy, when analysing over 10. 
+Road accidents in all 77 districts of Nepal in 2025, our team developed a machine learning model that could  when analysing over 10. 
 
 We found that motorcycle riders who were speeding made up 68% of the fatal crashes, and that evening hours and the monsoon season turned what should be routine journeys into deadly ones, making them 3-4 times deadlier. The top 10 districts were responsible for 42% of the countries' deadly car wrecks. 
 
